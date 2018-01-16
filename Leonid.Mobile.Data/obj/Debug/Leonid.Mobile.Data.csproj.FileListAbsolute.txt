@@ -1,0 +1,4 @@
+D:\Personal\Others\Mobile App\Leonid.Mobile.Data\bin\Debug\Leonid.Mobile.Data.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.Data\bin\Debug\Leonid.Mobile.Data.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.Data\obj\Debug\Leonid.Mobile.Data.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.Data\obj\Debug\Leonid.Mobile.Data.pdb

@@ -1,0 +1,5 @@
+E:\Projects\ZEO\LatestDevelop\Zeo\Miscellaneous\P3Net.Data\bin\Debug\P3Net.Data.dll
+E:\Projects\ZEO\LatestDevelop\Zeo\Miscellaneous\P3Net.Data\bin\Debug\P3Net.Data.pdb
+E:\Projects\ZEO\LatestDevelop\Zeo\Miscellaneous\P3Net.Data\obj\Debug\P3Net.Data.dll
+E:\Projects\ZEO\LatestDevelop\Zeo\Miscellaneous\P3Net.Data\obj\Debug\P3Net.Data.pdb
+E:\Projects\ZEO\LatestDevelop\Zeo\Miscellaneous\P3Net.Data\obj\Debug\P3Net.Data.csprojResolveAssemblyReference.cache

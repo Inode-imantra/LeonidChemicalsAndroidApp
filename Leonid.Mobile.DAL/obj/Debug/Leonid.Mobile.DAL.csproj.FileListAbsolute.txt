@@ -1,0 +1,12 @@
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\Leonid.Mobile.DAL.dll.config
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\Leonid.Mobile.DAL.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\Leonid.Mobile.DAL.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\EntityFramework.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\P3Net.Data.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\EntityFramework.xml
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\bin\Debug\P3Net.Data.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\obj\Debug\Leonid.Mobile.DAL.csprojResolveAssemblyReference.cache
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\obj\Debug\Leonid.Mobile.DAL.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.DAL\obj\Debug\Leonid.Mobile.DAL.pdb

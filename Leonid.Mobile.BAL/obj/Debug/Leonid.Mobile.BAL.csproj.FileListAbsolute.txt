@@ -1,0 +1,13 @@
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.BAL.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.BAL.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\AutoMapper.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.DAL.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.Data.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\P3Net.Data.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.DAL.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\Leonid.Mobile.Data.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\AutoMapper.xml
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\bin\Debug\P3Net.Data.pdb
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\obj\Debug\Leonid.Mobile.BAL.csprojResolveAssemblyReference.cache
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\obj\Debug\Leonid.Mobile.BAL.dll
+D:\Personal\Others\Mobile App\Leonid.Mobile.BAL\obj\Debug\Leonid.Mobile.BAL.pdb
