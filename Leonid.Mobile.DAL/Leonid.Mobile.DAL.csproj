@@ -62,7 +62,6 @@
     <Compile Include="Data\Location.cs" />
     <Compile Include="Data\User.cs" />
     <Compile Include="Impl\ItemImpl.cs" />
-    <Compile Include="Impl\RequestImpl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Impl\UserImpl.cs" />
   </ItemGroup>

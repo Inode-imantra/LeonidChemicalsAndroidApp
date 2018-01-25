@@ -10,6 +10,10 @@ namespace Leonid.Mobile.DAL.Data
     {
         public int LocationId { get; set; }
 
+        public int ItemId { get; set; }
+
         public string LocationName { get; set; }
+
+        public int ItemCount { get; set; }
     }
 }

@@ -4,3 +4,6 @@ D:\Personal\Others\Mobile App\Leonid.Mobile.Database\bin\Debug\Leonid.Mobile.Dat
 D:\Personal\Others\Mobile App\Leonid.Mobile.Database\obj\Debug\Leonid.Mobile.Database.csprojResolveAssemblyReference.cache
 D:\Personal\Others\Mobile App\Leonid.Mobile.Database\obj\Debug\Leonid.Mobile.Database.exe
 D:\Personal\Others\Mobile App\Leonid.Mobile.Database\obj\Debug\Leonid.Mobile.Database.pdb
+D:\Personal\Others\Mobile App\LeonidChemicalsAndroidApp\Leonid.Mobile.Database\bin\Debug\Leonid.Mobile.Database.exe.config
+D:\Personal\Others\Mobile App\LeonidChemicalsAndroidApp\Leonid.Mobile.Database\obj\Debug\Leonid.Mobile.Database.exe
+D:\Personal\Others\Mobile App\LeonidChemicalsAndroidApp\Leonid.Mobile.Database\obj\Debug\Leonid.Mobile.Database.pdb

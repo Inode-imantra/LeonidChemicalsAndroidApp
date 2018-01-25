@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Leonid.Mobile.Data
 {
-    class Item
+    public class Item
     {
+        public int ItemId { get; set; }
+
+        public string ItemName { get; set; }
+
+        public List<Location> Locations { get; set; }
     }
 }
